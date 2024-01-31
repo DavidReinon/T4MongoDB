@@ -66,4 +66,15 @@ public class Exercicis {
 		// coleccionLlibres.drop();
 
 	}
+	
+	// Declarar filtro Bson
+//	Bson filtro = and(
+//	    eq("campo", "valor"),
+//	    gt("campo", valor),
+//	    lt("campo", valor),
+//	    gte("campo", valor),
+//	    lte("campo", valor),
+//	    or(eq("campo1", valor1), eq("campo2", valor2)),
+//	    regex("campo", "expresion_regular")
+//	);
 }
